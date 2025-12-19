@@ -1,5 +1,5 @@
 # show_injective
-show how to build a little project about injective,using ai agent
+#show how to build a little project about injective,using ai agent
 1、选择AI Agent（以trae为例）
 （1）打开solo模式：https://www.trae.com.cn/events/s/wfRAMfRdxEY/
 （2）自建一个文件夹，并在trae中打开
