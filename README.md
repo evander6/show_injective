@@ -58,6 +58,7 @@ https://www.trae.com.cn/events/s/wfRAMfRdxEY/
 - 拖拽文件夹到上传区域
 - 填写 Commit changes 信息，例如："Add Injective cards with Ninja Break theme"
 - 点击 Commit changes 按钮
+  
 2、启用GitHub Pages
 - 在仓库主页点击顶部导航栏的 Settings
 - 在左侧菜单中选择 Pages
@@ -66,5 +67,6 @@ https://www.trae.com.cn/events/s/wfRAMfRdxEY/
 - Branch ：选择 main 分支
 - Folder ：选择 /(root) 
 - 点击 Save 按钮
+
 3、等待部署完成
 GitHub Pages会自动开始部署网站。部署完成后即可通过生成的URL来访问网站
